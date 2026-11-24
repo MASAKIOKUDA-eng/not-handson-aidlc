@@ -8,14 +8,14 @@
 
 | 項目 | A（not-handson-aidlc） | B（handson-aidlc） |
 |------|------------------------|--------------------|
-| 実施日時（開始〜終了、JST） | | |
+| 実施日時（開始〜終了、JST） | 2026-11-24 23:00 〜 23:22 | |
 | 実施した順番（1 回目 / 2 回目） | | |
-| ツールとバージョン | Claude Code（バージョン：　） | Claude Code（バージョン：　）+ aidlc-workflows 2.11.3 |
-| モデルと effort | | |
+| ツールとバージョン | Claude Code（バージョン：2.1.326、VS Code 拡張） | Claude Code（バージョン：　）+ aidlc-workflows 2.11.3 |
+| モデルと effort | Claude Opus 5.5（claude-opus-5-5）／ effort: medium | |
 | 最初の依頼文 | `prompts/initial-request.md` のとおり（はい / いいえ） | `prompts/initial-request.md` のとおり（はい / いいえ） |
 | 参考資料を渡したか | 渡していない（はい / いいえ） | 渡していない（はい / いいえ） |
-| 作業時間（上限 60 分） | 　分 | 　分 |
-| 時間内に終わったか | | |
+| 作業時間（上限 60 分） | 22 分 | 　分 |
+| 時間内に終わったか | はい | |
 
 ## 2. 数で比べる項目
 
