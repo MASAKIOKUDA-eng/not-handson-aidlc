@@ -1,0 +1,21 @@
+# 認証情報・秘密情報（絶対にコミットしない）
+.env
+.env.*
+*.pem
+*.key
+.aws/
+credentials
+cdk-outputs.json
+
+# Claude Code のローカル設定
+.claude/settings.local.json
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 依存関係・ビルド出力（今回は使わない想定）
+node_modules/
+cdk.out/
